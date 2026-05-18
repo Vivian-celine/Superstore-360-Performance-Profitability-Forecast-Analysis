@@ -20,7 +20,7 @@ This is not a chart collection. Every visual answers a specific business questio
 ![Profit Drivers and Risk Analysis](Page2-Profit-Drivers.png)
 
 ### Page 3 — Customer Intelligence and Opportunity
-![Customer Intelligence and Opportunity](Page3-Customer-Intelligence.png)
+![Customer Intelligence and Opportunity](Page3-Customer- Intelligence.png)
 
 ---
 
