@@ -14,13 +14,13 @@ This is not a chart collection. Every visual answers a specific business questio
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Business Performance Overview
-![Business Performance Overview](images/Page1-Business-Performance.png)
+![Business Performance Overview](Page1-Business-Performance.png)
 
 ### Page 2 — Profit Drivers and Risk Analysis
-![Profit Drivers and Risk Analysis](images/Page2-Profit-Drivers.png)
+![Profit Drivers and Risk Analysis](Page2-Profit-Drivers.png)
 
 ### Page 3 — Customer Intelligence and Opportunity
-![Customer Intelligence and Opportunity](images/Page3-Customer-Intelligence.png)
+![Customer Intelligence and Opportunity](Page3-Customer-Intelligence.png)
 
 ---
 
